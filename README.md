@@ -1,4 +1,4 @@
-**Fruit_Machine** </br>
+# Fruit_Machine
 Slot machine assignment for CMP104 Programming with C++
 
 The repository contains the code for a simple slot machine game which runs within the Windows command line. 
